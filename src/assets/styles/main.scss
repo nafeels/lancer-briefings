@@ -5,35 +5,36 @@
 /*-------------------------------------*/
 
 //Primary Colors
-$primary: rgba(125, 187, 187, 1);
-$secondary: rgba(23, 29, 30, 0.8);
-$highlight-hover: rgba(255, 255, 255, 0.3);
-$highlight-active: rgba(255, 255, 255, 0.1);
+$primary: rgba(153, 30, 42, 1);
+$secondary: rgba(255, 255, 255, 1);
+$tertiary: rgba(255, 255, 255, 0.7);
+$highlight-hover: rgba(153, 0, 0, 0.3);
+$highlight-active: rgba(0, 0, 0, 0.1);
 
 //Primary Text
-$text-headers: rgba(0, 0, 0, 1);
-$text-location: rgba(255, 255, 255, 0.87);
+$text-headers: rgba(255, 255, 255, 1);
+$text-location: rgba(0, 0, 0, 0.87);
 
 //Location Information
-$location-separator: rgba(255, 255, 255, 0.24);
+$location-separator: rgba(0, 0, 0, 0.24);
 
 //Mission Pane
-$text-mission-title: rgba(255, 255, 255, 0.67);
-$text-mission-status: rgba(255, 255, 255, 0.87);
+$text-mission-title: rgba(0, 0, 0, 0.67);
+$text-mission-status: rgba(0, 0, 0, 0.87);
 $mission-start: rgba(109, 109, 109, 1);
 $mission-partial: rgba(88, 34, 102, 1);
 $mission-success: rgba(34, 102, 98, 1);
 $mission-failure: rgba(176, 45, 45, 1);
 
 //Pilot Roster Text
-$text-pilot-header: rgba(255, 255, 255, 0.67);
-$text-pilot-value: rgba(255, 255, 255, 0.87);
-$text-pilot-code: rgba(255, 255, 255, 0.47);
+$text-pilot-header: rgba(0, 0, 0, 0.67);
+$text-pilot-value: rgba(0, 0, 0, 0.87);
+$text-pilot-code: rgba(0, 0, 0, 0.47);
 
 //Markdown (Current Assignment, Events Log, Pilot Biography)
-$text-markdown-p: rgba(255, 255, 255, 0.87);
-$text-markdown-h1: rgba(255, 255, 255, 0.67);
-$text-markdown-h2: rgba(255, 255, 255, 0.87);
+$text-markdown-p: rgba(0, 0, 0, 0.87);
+$text-markdown-h1: rgba(0, 0, 0, 0.67);
+$text-markdown-h2: rgba(0, 0, 0, 0.87);
 
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;600;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
@@ -97,8 +98,8 @@ body {
 
 header {
   animation: 1s ease-out 1 slideInFromLeft;
-  background-color: $secondary;
-  border-color: $secondary;
+  background-color: $tertiary;
+  border-color: $primary;
   height: 96px;
   display: flex;
   align-items: center;
@@ -129,6 +130,7 @@ header {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.15em;
+    color: $secondary
   }
 
   #title-subheader {
@@ -140,6 +142,7 @@ header {
     text-transform: uppercase;
     letter-spacing: 0.12em;
     padding-left: 0.32em;
+    color: $secondary;
   }
 
   #subtitle-header {
@@ -150,6 +153,7 @@ header {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.08em;
+    color: $secondary;
   }
 
   #subtitle-subheader {
@@ -160,11 +164,12 @@ header {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.02em;
+    color: $secondary;
   }
 }
 
 .logo {
-  width: 50px;
+  width: 80px;
   height: 80px;
   margin-left: 15px;
 }
@@ -174,7 +179,7 @@ header {
 }
 
 #title-first-line {
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid $secondary;
 }
 
 .rhombus {
@@ -209,18 +214,19 @@ header video {
   height: 86px;
 }
 
-div .location-info {
+.location-info {
   height: 90px;
   width: 550px;
-  padding: 10px;
-  margin-left: 20px;
+  padding: 0px;
+  margin-left: 29px;
+  margin-top: 5px;
   display: flex;
   flex-direction: column;
   color: $text-location;
 }
 
 header video,
-div.location-info {
+.location-info {
   animation: 0.5s ease 1 flickerIn;
   animation-delay: 2s;
   animation-fill-mode: forwards;
@@ -228,25 +234,28 @@ div.location-info {
 }
 
 .location-row {
-  height: 40px;
+  height: 37px;
   display: flex;
+  width: 399px;
   h4 {
     margin: 0px;
-    line-height: 1.5em;
+    line-height: 0.5em;
     font-family: "Raleway", sans-serif;
-    font-size: 10px;
+    font-size: .5em;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 3px;
+    color: $text-location;
   }
   .subtitle {
-    font-size: 18px;
+    font-size: .9em;
     margin: 0%;
     align-self: center;
     font-family: "Big Shoulders Display", cursive;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.1em;
+    color: $text-location;
   }
   div {
     padding: 0px 15px;
@@ -322,12 +331,13 @@ section .section-header {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.1em;
+    color: $secondary;
   }
 }
 
 .section-content-container {
   height: 666px;
-  background: $secondary;
+  background: $tertiary;
   border: 1px solid $primary;
   margin-top: -1px;
   z-index: 0;
@@ -379,9 +389,9 @@ section .section-header {
 }
 
 .clipped-medium-backward-bio {
-  width: 552px;
-  clip-path: polygon(0 0, 500px 0, 552px 100%, 0% 100%);
-  -webkit-clip-path: polygon(0 0, 500px 0, 552px 100%, 0% 100%);
+    width: 334px;
+    clip-path: polygon(0 0,500px 0,552px 100%,0% 100%);
+    -webkit-clip-path: polygon(0 0,300px 0,350px 100%,0% 100%);
 }
 
 .clipped-x-large-forward {
@@ -505,7 +515,7 @@ section .section-header {
   }
 
   .mech-loadout {
-    width: 250px;
+    width: 245px;
     display: flex;
     flex-direction: column;
     row-gap: 0px;
@@ -519,7 +529,7 @@ section .section-header {
   }
 
   .mech-portrait {
-    width: 104px;
+    width: 120px;
     height: 136px;
     object-fit: cover;
   }
@@ -592,7 +602,7 @@ section .section-header {
 }
 
 .pilot-wrapper:hover .middle {
-  width: 757px;
+  width: 770px;
 }
 
 .pilot-wrapper:active .middle,
@@ -607,6 +617,7 @@ section .section-header {
   top: 142px;
   display: flex;
   gap: 5em;
+  z-index: 999999;
 }
 
 .pilot-modal {
@@ -645,6 +656,7 @@ section .section-header {
       font-weight: 800;
       text-transform: uppercase;
       letter-spacing: 0.1em;
+      color: $secondary;
     }
   }
 
@@ -664,18 +676,17 @@ section .section-header {
     background-color: $secondary;
     border: 1px solid $primary;
     margin-top: -38px;
-    width: 888px;
-    height: 662px;
-
+    margin-right: 40px;
+  }
     div.markdown {
       height: 662px;
     }
   }
-}
 
 .pilot-modal.portrait {
   .pilot {
     width: 600px;
+    height: 661px;
   }
 
   img.portrait {
@@ -718,6 +729,7 @@ section .section-header {
   right: 0;
   top: 0;
   background-color: rgba(10, 10, 10, 0.7);
+  z-index: 999999;
 }
 
 footer {
@@ -764,6 +776,7 @@ div.markdown {
   border-bottom: 1px solid $primary;
   height: 350px;
   overflow-y: auto;
+  overflow-x: hidden;
   transition: height 0.5s ease-in-out;
 
   p strong {
@@ -829,4 +842,326 @@ div.markdown {
   padding-top: 1em;
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+/*================================================*/
+/*======          Mobile Support            ======*/
+/*================================================*/
+
+@media screen and (max-width: 767px) { 
+  .title {
+  transform: translateX(-100%);
+  animation: 1s ease-out 1 slideInFromLeft;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+  background-color: $primary;
+  border-color: $primary;
+  width: 100%;
+  height: 100%;
+  margin-left: 0px;
+  display: inline-flex;
+  align-items: center;
+  column-gap: 1em;
+  .title-container {
+    display: flex;
+    flex-direction: column;
+  }
+.logo {
+    width: 13vw;
+    height: 6vh;
+    margin-left: 15px;
+}
+   .location-info {
+  height: 90px;
+  width: 550px;
+  padding: 0px;
+  margin-left: 20px;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  color: $text-location;
+}
+    .location-row {
+  height: 33px;
+  display: flex;
+  width: 400px;
+  h4 {
+    margin: 0px;
+    line-height: 0.5em;
+    font-family: "Raleway", sans-serif;
+    font-size: 10px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: $text-location;
+  }
+    }
+  #title-header {
+    font-size: 4vw;
+    margin: 0%;
+    align-self: center;
+    font-family: "Big Shoulders Display", cursive;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: $secondary
+  }
+
+  #title-subheader {
+    font-size: 4vw;
+    margin: 0%;
+    align-self: center;
+    font-family: "Big Shoulders Display", cursive;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    padding-left: 0.32em;
+    color: $secondary;
+  }
+
+  #subtitle-header {
+    font-size: 4vw;
+    margin: 0%;
+    align-self: center;
+    font-family: "Big Shoulders Display", cursive;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: $secondary;
+  }
+
+  #subtitle-subheader {
+    font-size: 3vw;
+    margin: 0%;
+    align-self: center;
+    font-family: "Titillium Web", cursive;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    color: $secondary;
+  }
+}
+  div .content-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 80%;
+  margin: 100px auto; 
+  }
+  .section-container {
+   max-width: 100%;
+  width: auto;
+  margin-left: auto; /* Adjust the margin values as needed */
+  margin-right: auto; /* Center the container horizontally */
+}
+  section.section-container {
+  flex: 1 1 100%;
+  display: flex;
+  flex-direction: column;
+  flex-basis: calc(50% - 25px);
+  margin: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+  .section-content-container {
+  max-width: 82vw;
+    max-height: 78vh;
+  width: auto;
+  margin-left: auto; /* Adjust the margin values as needed */
+  margin-right: auto;
+    margin-top: 60px;
+}
+  #pilots {
+  width: 100%;
+  margin-top: 50px;
+  }
+   .section-header {
+    height: 52px;
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    margin-top: 42px !important;
+     margin-bottom: -60px;
+  }
+  
+  .section-header h1 {
+    font-size: 26px;
+  }
+  .o-modal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 99999;
+  }
+  .o-modal > div:nth-child(2) {
+  position: absolute;
+  left: 5px;
+  top: 138px;
+  display: flex;
+  flex-direction: column;
+    width: 97vw;
+    height:82vh;
+  gap: 5em;
+  z-index: 999999;
+}
+  div.pilot {
+    background-color: $secondary;
+    border: 1px solid $primary;
+    margin-top: -38px;
+    width: 97vw;
+}
+  .pilot-modal div .section-header h1 {
+    font-size: 23px;
+    margin: 0%;
+    align-self: center;
+    font-family: "Big Shoulders Display",cursive;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    color: #e1e1e1;
+}
+  .pilot-modal.portrait {
+  .pilot {
+    width: 366px;
+    margin-bottom: 45px; 
+    margin-left: 7px;
+    height: 457px;
+  }
+    .pilot-modal div .section-header {
+    background-color: #991e2a;
+    border-color: #991e2a;
+    height: 52px;
+    display: inline-flex;
+    gap: 15px;
+    padding-left: 16px;
+    margin-top: -38px!important;
+}
+    .clipped-medium-backward-pilot {
+  width: 452px;
+  clip-path: polygon(0 0, 400px 0, 452px 100%, 0% 100%);
+  -webkit-clip-path: polygon(0 0, 400px 0, 452px 100%, 0% 100%);
+}
+    #pilots .section-header {
+      height: 87px;
+    overflow-y: hidden;
+      margin-bottom: -59px;
+    }
+.clipped-medium-backward-bio {
+    width: 226px;
+    clip-path: polygon(0 0,500px 0,552px 100%,0% 100%);
+    -webkit-clip-path: polygon(0 0,169px 0,217px 100%,0% 100%);
+}
+  img.portrait {
+    width: 366px;
+    height: 457px;
+    object-fit: cover;
+  }
+     .pilot-modal .pilot-header-container {
+    display: flex;
+  }
+    .pilot-modal.portrait div .section-header {
+    background-color: #991e2a;
+    border-color: #991e2a;
+    height: 52px;
+    display: inline-flex;
+    gap: 15px;
+    padding-left: 16px;
+    margin-top: -38px!important;
+    width: 82vw;
+}
+    .clipped-medium-backward-pilot {
+    width: 452px;
+    clip-path: polygon(0 0,400px 0,452px 100%,0% 100%);
+    -webkit-clip-path: polygon(0 0,265px 0,311px 100%,0% 100%);
+}
+  }
+  .o-modal__overlay {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  background-color: rgba(10, 10, 10, 0.7);
+  z-index: 999999;
+}
+  #pilots .pilot {
+    display: flex;
+    flex-direction: row;
+    padding: 3em;
+    column-gap: 0em;
+    height: 17px;
+    width: 84vw;
+    border-bottom: none;
+    z-index: 1;
+    cursor: pointer;
+    left: 10px;
+    background-color: $tertiary;
+}
+
+#pilots .pilot .pilot-loadout {
+    width: 96px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 3px;
+    padding-left: 11px;
+    top: 10px;
+}
+
+#pilots .pilot .mech-loadout {
+    width: 1px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0px;
+    padding-top: 141px;
+    text-align: left;
+}
+
+#pilots .pilot .pilot-portrait {
+    width: 101px;
+    height: 136px;
+    object-fit: cover;
+}
+
+#pilots .pilot .mech-portrait {
+    width: 120px;
+    height: 136px;
+    object-fit: cover;
+  }
+  .pilot-wrapper {
+    position: relative;
+    height: 26vh;
+    padding: 33px;
+    width: 110vw;
+    top: -33px; 
+    overflow-y: clip;
+    border-bottom: 1px solid #991e2a
+  }
+  .pilot-wrapper:hover .middle {
+    width: 300px;
+  }
+  .pilot-list-container {
+  height: 78vh;
+    width: 86vw;
+  overflow-y: scroll;
+  overflow-x: hidden;     
+  }
+  #pilots .section-header.clipped-medium-backward {
+     height: 86px;
+    overflow-y: hidden;
+  margin-bottom: -61px;
+  }
+  .section-content-container ::-webkit-scrollbar-thumb {
+    background-color: #991e2a00;
+    border-radius: 20px;
+    border: 3px solid #991e2a00;
+    margin: 3px
+}
+  
 }
