@@ -1,22 +1,17 @@
-Born to a mechanic and NHP technician on a tertiary colony world of the Karrakis Trade Baronies known as Ravin: Vier was orphaned at age 13 alongside their then-toddler brother Craig. Officials declared it was due to complications related to an high class NHP cascade, as both their parents were researching the technology secretly against Union's charter, but Vier has only vague memories of the details after Union officials assumedly effected their memory of the incident and related details.
-Living between foster homes and the streets of an established colony city on Ravin, they took low income service jobs before eventually being mentored under a team of mech mechanics who travel with pilots on expeditions. Enamored by pilots but attached to their brother's daily needs, they took every chance possible to learn from all the mercenary Pilots: stories about the good, the bad, and the strange. This was also where Vier had their first contact with higher class NHPs since childhood, especially when working on the extremely suspicious HORUS frames.
+Kian nasceu em **Al-Zahur**, um planeta árido no *Sistema Erez* da *Linha Cascades*, onde a terra rachada sob céus cor de ferrugem guarda histórias de resistência. Por 700 anos, seu povo enfrentou o jugo do **Protetorado de Véspera**, um regime colonialista apoiado pelo SegCom que justificava a exploração e expulsão de gerações com retóricas de "destino cósmico". 
 
-When Vier was 20 years old their brother, now 10, caught a fatal logic disease. Vier took out an insane loan to pay for treatment, and he luckily pulled through. Albeit with a new noose around their collective neck: debt collectors. Today, after 6 years with that debt only piling higher, and while now their brother is old enough to also be helping with it, they decided after years of doing everything for their brother, it was their time to risk it all instead of living under pure responsibility. Time to become a pilot and enjoy life.
+Crescendo nas vielas de assentamentos improvisados, onde os laços comunitários transformavam migalhas em banquetes. Kian é o primogênito de sete irmãos, sua infância foi moldada pela responsabilidade. Aprendeu desde cedo a cuidar dos mais novos, consertar irrigadores solares, ler os sinais do solo árido e contar histórias dos antepassados que desafiaram a pilhagem colonialista.
 
-## Random Facts:
+Aos doze anos, a **União** chegou. Não como novos conquistadores, mas trazendo alívio: médicos de campo, tecnologia de purificação de água... e esperança. Assim que pode, se alistou: _*"Preciso entender o fluxo do universo, para que meu povo floresça"*_. Sua família permanece em Al-Zahur, agora mais segura, mas ele desconfia da burocracia do TerCom e da lentidão nas mudanças.
 
-- Apprehensions about NHP exposure...
+## Curiosidades
 
-- ...but is actually slowly nurturing a low-class NHP cloned from a mech's internal systems, in order to understand them, since they are generally unavoidable.
+- Kian está constantemente pestiscando, geralmente uma das versões de zayto, uma fruta típica de Al-Zahur que se assemelha a azeitona do Berço(Terra), porém com uma versão ainda mais azeda e outra doce como uva.
 
-- Loves their brother, but has some barely-subconscious hatred of the burden he put on them throughout their life.
+- Ele usa o cachecol de seu avô, tecido a mão por sua avó em uma técnica tradicional, ao qual toca constantemente, como se pedisse conselhos a eles, especialmente quando está pilotando.
 
-- Avoids damage to avoid repair work
+- Ele sempre se interessa em experimentar e compartilhar comida, apesar de ter paladar seletivo, fazendo ele não gostar 90% das vezes.
 
-- Nonbinary
+- Chama todos os mais novos e companheiros de irmão(a) ou primo(a)
 
-- Dyes their hair green with chemicals that are definitely not meant for that
-
-- Only owns 2 sets of casual wear
-
-- Will steal anything halfway worth stealing if they think they can get away with it
+- Anda descalço sempre que possível.
