@@ -6,7 +6,7 @@ De qualquer forma, mecânicos hábeis são muito valorizados na vastidão do uni
 
 Ela anseia contar para a irmã que agora é uma oficial formada, porém, há alguns ciclos, as mensagens apresentaram problemas e simplesmente retornaram sem recebimento.
 
-##Curiosidades
+## Curiosidades
 
 - Aurora gosta de doces, porém tem vergonha de que saibam disso. Ela costuma esconder alguns no macacão, o que, para efeitos de treinamento de resistência, seria considerado trapaça.
 
