@@ -1,8 +1,11 @@
+*"Preciso entender o fluxo do universo, para que meu povo floresça."*
+**OLVIRE**, Kian S.
+
 Kian nasceu em **Al-Zahur**, um planeta árido no **Sistema Erez** da **Linha Cascades**, onde a terra rachada sob céus cor de ferrugem guarda histórias de resistência. Por 700 anos, seu povo enfrentou o jugo do **Protetorado de Véspera**, um regime colonialista apoiado pelo SegCom que justificava a exploração e expulsão de gerações com retóricas de "destino cósmico". 
 
 Crescendo nas vielas de assentamentos improvisados, onde os laços comunitários transformavam migalhas em banquetes. Kian é o primogênito de sete irmãos, sua infância foi moldada pela responsabilidade. Aprendeu desde cedo a cuidar dos mais novos, consertar irrigadores solares, ler os sinais do solo árido e contar histórias dos antepassados que desafiaram a pilhagem colonialista.
 
-Aos doze anos, a **União** chegou. Não como novos conquistadores, mas trazendo alívio: médicos de campo, tecnologia de purificação de água... e esperança. Assim que pode, se alistou: _*"Preciso entender o fluxo do universo, para que meu povo floresça"*_. Sua família permanece em Al-Zahur, agora mais segura, mas ele desconfia da burocracia do TerCom e da lentidão nas mudanças.
+Aos doze anos, a **União** chegou. Não como novos conquistadores, mas trazendo alívio: médicos de campo, tecnologia de purificação de água... e esperança. Assim que pode, se alistou. Sua família permanece em Al-Zahur, agora mais segura, mas ele desconfia da burocracia do TerCom e da lentidão nas mudanças.
 
 ## Curiosidades
 
