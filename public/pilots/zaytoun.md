@@ -12,6 +12,6 @@ Aos doze anos, a **União** chegou. Não como novos conquistadores, mas trazendo
 
 - Ele sempre se interessa em experimentar e compartilhar comida, apesar de ter paladar seletivo, fazendo ele não gostar 90% das vezes.
 
-- Chama todos os mais novos e companheiros de irmão(a) ou primo(a)
+- Chama todos os mais novos e companheiros de irmão(a) ou primo(a).
 
 - Anda descalço sempre que possível.
