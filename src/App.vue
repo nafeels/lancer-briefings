@@ -148,7 +148,7 @@ export default {
         "gate": "Sem Dados",
         "ring": "Linha Cascades",
         "headerTitle": "União",
-        "headerSubtitle": "Departamento Naval",
+        "headerSubtitle": "Departamento da Marinha",
         "subheaderTitle": "Time de Resposta Imediata",
         "subheaderSubtitle": "Asa Negra",
       },
