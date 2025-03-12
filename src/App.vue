@@ -4,7 +4,7 @@
     <section class="section-container" id="missions" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
-        <h1>Registro de Missões</h1>
+        <h1>Relatório de Missões</h1>
       </div>
       <div class="section-content-container">
         <h3>Atribuições Atuais</h3>
@@ -24,7 +24,7 @@
     <section class="section-container" id="events" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
-        <h1>Registro de Eventos</h1>
+        <h1>Relatório de Eventos</h1>
       </div>
       <div class="section-content-container">
         <Markdown :source="events" class="markdown" />
@@ -34,7 +34,7 @@
       <div style="height:52px; overflow:hidden;">
         <div class="section-header clipped-medium-backward-pilot">
           <img src="/icons/pilot-icon.svg" />
-          <h1>Índice de Pilotos</h1>
+          <h1>Registro de Pilotos</h1>
         </div>
         <div class="rhombus-back">&nbsp;</div>
       </div>
