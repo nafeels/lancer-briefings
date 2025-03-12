@@ -102,19 +102,19 @@ export default {
       "pilots": [
         {
           "callsign": "Phantom",
-          "alias": "Vladimir",
+          "alias": "Vladimir K.",
           "code": "2067d2d7-ca1f-4bc7-8464-b2d74b1d3864//NDL-C-LIGHT-MOUNTAIN",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "GHOST REAPER"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Ynx",
+          "alias": "Aurora Galanis",
+          "code": "30f58c3d-3416-43a3-8102-8d2235fa9bb1//NDL-C-BETA-CASCADE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Bola de Neve"
         },
         {
           "callsign": "Starboard",
