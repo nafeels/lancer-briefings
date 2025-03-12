@@ -4,10 +4,10 @@
     <section class="section-container" id="missions" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
-        <h1>Registro da Missão</h1>
+        <h1>Registro de Missões</h1>
       </div>
       <div class="section-content-container">
-        <h3>Atribuição Atual</h3>
+        <h3>Atribuições Atuais</h3>
         <Markdown :source="current_md" class="markdown" />
         <h3>Mission List</h3>
         <div class="mission-list-container">
