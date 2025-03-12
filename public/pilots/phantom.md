@@ -1,4 +1,4 @@
-*"A alma do marcado, ou a sua, esse é o dogma do Ceifador."*
+*"A alma do marcado, ou a sua, esse é o dogma do Ceifador."* <br>
 **KALASHINKOV**, Vladimir
 
 Nascido em **Kessel-7**, um planeta sombrio governado por senhores de escravos, Vladimir Kalashnikov foi moldado pela brutalidade desde a infância: órfão e reduzido a um número (**17**), treinou como assassino letal em meio a tempestades de granizo e fábricas tóxicas, até que, aos 13 anos, uma falha em eliminar a comandante **Elena Carpenter** da **União** o levou a um ponto de virada. Capturado por ela, foi reabilitado e transformado em **Phantom**, um operativo de elite cuja precisão implacável e seu mecha **Ghost Reaper** — equipado com camuflagem e um rifle de alta letalidade — o tornaram um Lancer. 
