@@ -6,7 +6,7 @@ Aos doze anos, a **União** chegou. Não como novos conquistadores, mas trazendo
 
 ## Curiosidades
 
-- Kian está constantemente pestiscando, geralmente uma das versões de zayto, uma fruta típica de Al-Zahur que se assemelha a azeitona do Berço(Terra), porém com uma versão ainda mais azeda e outra doce como uva.
+- Kian está constantemente pestiscando, geralmente uma das versões de zayto, uma fruta típica de Al-Zahur que se assemelha a azeitona do Berço (Terra), porém com uma versão ainda mais azeda e outra doce como uva.
 
 - Ele usa o cachecol de seu avô, tecido a mão por sua avó em uma técnica tradicional, ao qual toca constantemente, como se pedisse conselhos a eles, especialmente quando está pilotando.
 
