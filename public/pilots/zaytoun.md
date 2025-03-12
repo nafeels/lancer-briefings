@@ -1,5 +1,4 @@
 *"Preciso entender o fluxo do universo, para que meu povo floresça."*
-
 &nbsp;
 **OLVIRE**, Kian S.
 
