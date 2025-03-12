@@ -9,7 +9,7 @@
       <div class="section-content-container">
         <h3>Atribuições Atuais</h3>
         <Markdown :source="current_md" class="markdown" />
-        <h3>Mission List</h3>
+        <h3>Quadro de Missões</h3>
         <div class="mission-list-container">
           <Mission
             v-for="item in this.missions"
@@ -24,7 +24,7 @@
     <section class="section-container" id="events" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
-        <h1>Events Log</h1>
+        <h1>Registro de Eventos</h1>
       </div>
       <div class="section-content-container">
         <Markdown :source="events" class="markdown" />
