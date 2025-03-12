@@ -102,7 +102,7 @@ export default {
       "pilots": [
         {
           "callsign": "Phantom",
-          "alias": "Vladimir Kalashnikov",
+          "alias": "Vladimir",
           "code": "2067d2d7-ca1f-4bc7-8464-b2d74b1d3864//NDL-C-LIGHT-MOUNTAIN",
           "corpro": "GMS",
           "frame": "Everest",
