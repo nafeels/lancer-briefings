@@ -1,5 +1,5 @@
 *"Preciso entender o fluxo do universo, para que meu povo floresça."*
-
+&nbsp;
 **OLVIRE**, Kian S.
 
 Kian nasceu em **Al-Zahur**, um planeta árido no **Sistema Erez** da **Linha Cascades**, onde a terra rachada sob céus cor de ferrugem guarda histórias de resistência. Por 700 anos, seu povo enfrentou o jugo do **Protetorado de Véspera**, um regime colonialista apoiado pelo SegCom que justificava a exploração e expulsão de gerações com retóricas de "destino cósmico". 
