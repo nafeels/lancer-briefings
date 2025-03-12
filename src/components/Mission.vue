@@ -30,10 +30,10 @@ export default {
 			return `/icons/mission-${this.mission.status}.svg`
 		},
 		missionStatus() {
-			if (this.mission.status === "start") return "Current\nBriefing"
-			if (this.mission.status === "partial-success") return "Partial\nSuccess"
-			if (this.mission.status === "success") return "Mission\nSuccess"
-			if (this.mission.status === "failure") return "Mission\nFailure"
+			if (this.mission.status === "start") return "Relatório\nAtual"
+			if (this.mission.status === "partial-success") return "Sucesso\nParcial"
+			if (this.mission.status === "success") return "Sucesso"
+			if (this.mission.status === "failure") return "Fracasso"
 		},
 		isActive() {
 			return this.mission.slug === this.selected;
