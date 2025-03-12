@@ -149,7 +149,7 @@ export default {
         "ring": "Linha Cascades",
         "headerTitle": "União",
         "headerSubtitle": "Departamento da Marinha",
-        "subheaderTitle": "Time de Resposta Imediata",
+        "subheaderTitle": "Time de Segurança e Defesa",
         "subheaderSubtitle": "Asa Negra",
       },
       "options":{
