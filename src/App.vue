@@ -104,16 +104,16 @@ export default {
           "callsign": "Phantom",
           "alias": "Vladimir K.",
           "code": "2067d2d7-ca1f-4bc7-8464-b2d74b1d3864//NDL-C-LIGHT-MOUNTAIN//2067d2d7-ca1f-4bc7-8464-b2d74b1d3864",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "SMG",
+          "frame": "Evereste",
           "mech": "GHOST REAPER"
         },
         {
           "callsign": "Ynx",
           "alias": "Aurora G.",
           "code": "30f58c3d-3416-43a3-8102-8d2235fa9bb1//NDL-C-BETA-CASCADE//30f58c3d-3416-43a3-8102-8d2235fa9bb1",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "SMG",
+          "frame": "Evereste",
           "mech": "Bola de Neve"
         },
         {
@@ -142,7 +142,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Cressidum",
+        "planet": "Cressidium",
         "year": "5016u",
         "system": "Sem Dados",
         "gate": "Sem Dados",
