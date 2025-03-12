@@ -13,6 +13,6 @@ Por trás da fachada fria e calculista, esconde-se um conflito silencioso: a dí
 
 - Ele tem um senso de justiça frio, acreditando que seus alvos merecem morrer, mas sem prazer no ato.
 
-- Quando era um pequeno assassino, Vlad foi doutrinado por uma religião sombria de Kessel-7, que acreditava em uma única divindade, a Morte, que eles chamavam de Жнец, O Ceifador.
+- Quando era um pequeno assassino, Vlad foi doutrinado por uma religião sombria de Kessel-7, que acreditava em uma única divindade, a Morte, que eles chamavam de **Жнец, O Ceifador**.
 
 - Possui uma tatuagem discreta no pulso esquerdo, feita por seus antigos mestres, uma estrela de 5 pontas ornada com ramos de oliveira, e no centro sua identificação de assassino: 17.
