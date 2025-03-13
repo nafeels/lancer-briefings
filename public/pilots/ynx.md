@@ -9,12 +9,12 @@ Ela anseia contar para a irmã que agora é uma oficial formada, porém, há alg
 
 ## Curiosidades
 
-- Aurora gosta de doces, porém tem vergonha de que saibam disso. Ela costuma esconder alguns no macacão, o que, para efeitos de treinamento de resistência, seria considerado trapaça.
+* Aurora gosta de doces, porém tem vergonha de que saibam disso. Ela costuma esconder alguns no macacão, o que, para efeitos de treinamento de resistência, seria considerado trapaça.
 
-- Quando está no controle do mecha, no meio do combate, ela imagina que está lutando para proteger a sua irmã **Ágata**. Se é uma missão de escolta, seria a escolta da Ágata; se é de neutralização, seriam raptores da Ágata, etc. Mas, no fim, quem sempre foi protegida foi ela.
+* Quando está no controle do mecha, no meio do combate, ela imagina que está lutando para proteger a sua irmã **Ágata**. Se é uma missão de escolta, seria a escolta da Ágata; se é de neutralização, seriam raptores da Ágata, etc. Mas, no fim, quem sempre foi protegida foi ela.
 
-- Como mecânica, ela sempre carrega chiclete, lixa, parafusos e buchas. Esse é o segredo dela para resolver qualquer coisa insolúvel.
+* Como mecânica, ela sempre carrega chiclete, lixa, parafusos e buchas. Esse é o segredo dela para resolver qualquer coisa insolúvel.
 
-- O coração da Aurora é frágil, mas ela anda com uma falsa segunda pele na região do peito, equipada com um gravador que funciona como um marca-passo, só que serve apenas para reproduzir sons de um coração saudável. Ele possui cinco gravações: normal, corrida, adrenalina, sono e ansiedade.
+* O coração da Aurora é frágil, mas ela anda com uma falsa segunda pele na região do peito, equipada com um gravador que funciona como um marca-passo, só que serve apenas para reproduzir sons de um coração saudável. Ele possui cinco gravações: normal, corrida, adrenalina, sono e ansiedade.
 
-- Ela não se lembra mais do semblante dos pais, então faz desenhos de quem considera importante e cola na cabine do mecha para não esquecer.
+* Ela não se lembra mais do semblante dos pais, então faz desenhos de quem considera importante e cola na cabine do mecha para não esquecer.
