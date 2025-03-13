@@ -125,7 +125,7 @@ export default {
           "mech": "Terrafirme"
         },
         {
-          "callsign": "Sem Dados 001",
+          "callsign": "Sem Dados",
           "alias": "Sem Dados",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "N/A",
@@ -133,7 +133,7 @@ export default {
           "mech": "N/A"
         },
         {
-          "callsign": "Sem Dados 002",
+          "callsign": "Sem Dados",
           "alias": 'Sem Dados',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "N/A",
