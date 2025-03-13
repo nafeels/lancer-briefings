@@ -9,12 +9,12 @@ Aos doze anos, a **União** chegou. Não como novos conquistadores, mas trazendo
 
 ## Curiosidades
 
-- Kian está constantemente pestiscando, geralmente uma das versões de zayto, uma fruta típica de Al-Zahur que se assemelha a azeitona do **Berço (Terra)**, porém com uma versão ainda mais azeda e outra doce como uva.
+* Kian está constantemente pestiscando, geralmente uma das versões de zayto, uma fruta típica de Al-Zahur que se assemelha a azeitona do **Berço (Terra)**, porém com uma versão ainda mais azeda e outra doce como uva.
 
-- Ele usa o cachecol de seu avô, tecido a mão por sua avó em uma técnica tradicional, ao qual toca constantemente, como se pedisse conselhos a eles, especialmente quando está pilotando.
+* Ele usa o cachecol de seu avô, tecido a mão por sua avó em uma técnica tradicional, ao qual toca constantemente, como se pedisse conselhos a eles, especialmente quando está pilotando.
 
-- Ele sempre se interessa em experimentar e compartilhar comida, apesar de ter paladar seletivo, fazendo ele não gostar 90% das vezes.
+* Ele sempre se interessa em experimentar e compartilhar comida, apesar de ter paladar seletivo, fazendo ele não gostar 90% das vezes.
 
-- Chama todos os mais novos e companheiros de irmão(a) ou primo(a).
+* Chama todos os mais novos e companheiros de irmão(a) ou primo(a).
 
-- Anda descalço sempre que possível.
+* Anda descalço sempre que possível.
