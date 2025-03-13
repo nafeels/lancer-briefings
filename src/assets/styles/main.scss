@@ -762,6 +762,11 @@ footer:hover {
   opacity: 1;
 }
 
+div.markdown ul li::before {
+  content: "•"; /* Usa um ponto como marcador */
+  color: black; /* Define a cor do marcador como preto */
+}
+
 /*================================================*/
 /*======          Markdown Styling          ======*/
 /*================================================*/
