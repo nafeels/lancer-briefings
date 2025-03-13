@@ -762,25 +762,6 @@ footer:hover {
   opacity: 1;
 }
 
-div.markdown ul {
-  list-style-type: none; /* Remove os marcadores de lista padrão */
-  padding-inline-start: 20px; /* Mantém o espaçamento à esquerda */
-}
-
-div.markdown ul li {
-  position: relative;
-  padding-left: 1em; /* Espaço para o marcador personalizado */
-  color: black; /* Define a cor do texto como preto */
-}
-
-div.markdown ul li::before {
-  content: "•"; /* Usa um ponto como marcador */
-  color: black; /* Define a cor do marcador como preto */
-  position: absolute;
-  left: 0;
-  font-size: 1.2em; /* Ajusta o tamanho do marcador */
-}
-
 /*================================================*/
 /*======          Markdown Styling          ======*/
 /*================================================*/
