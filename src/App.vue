@@ -110,7 +110,7 @@ export default {
         },
         {
           "callsign": "Ynx",
-          "alias": "Aurora G.",
+          "alias": "Aurora Galanis",
           "code": "30f58c3d-3416-43a3-8102-8d2235fa9bb1//NDL-C-BETA-CASCADE//30f58c3d-3416-43a3-8102-8d2235fa9bb1",
           "corpro": "SMG",
           "frame": "Evereste",
