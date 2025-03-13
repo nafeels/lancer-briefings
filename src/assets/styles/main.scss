@@ -765,6 +765,9 @@ footer:hover {
 div.markdown ul li::before {
   content: "•"; /* Usa um ponto como marcador */
   color: black; /* Define a cor do marcador como preto */
+  position: absolute;
+  left: 0;
+  font-size: 1.2em; /* Ajusta o tamanho do marcador */
 }
 
 /*================================================*/
