@@ -1,4 +1,5 @@
-*“Nós temos nove vidas, mas eu já gastei umas tantas!”*   **GALANIS**, Aurora
+*“Nós temos nove vidas, mas eu já gastei umas tantas!”*
+**GALANIS**, Aurora
 
 Aurora viu a irmã partir de **Vesúvio-9** sem poder se despedir. Ela sempre admirou a lenda em que sua irmã se transformou e tentou seguir seus passos, mas o que conseguiu fazer foi montar e desmontar coisas. Esse foi o caminho que encontrou.
 
