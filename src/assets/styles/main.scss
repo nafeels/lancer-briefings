@@ -809,7 +809,6 @@ div.markdown {
   }
 
   ul {
-    color: black;
     display: block;
     list-style-type: disc;
     margin-block-start: 0.25em;
@@ -819,6 +818,8 @@ div.markdown {
     padding-inline-start: 20px;
     margin-bottom: 1em;
     list-style-image: url("../bullet.png");
+    color: $text-markdown-p;
+
   }
 
   ol{
@@ -832,6 +833,8 @@ div.markdown {
     li{
       margin-bottom:0.5em;
     }
+    color: $text-markdown-p;
+
   }
 }
 
