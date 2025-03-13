@@ -102,7 +102,7 @@ export default {
       "pilots": [
         {
           "callsign": "Phantom",
-          "alias": "Vladimir K.",
+          "alias": "Vladimir Kalashnikov",
           "code": "2067d2d7-ca1f-4bc7-8464-b2d74b1d3864//NDL-C-LIGHT-MOUNTAIN//2067d2d7-ca1f-4bc7-8464-b2d74b1d3864",
           "corpro": "SMG",
           "frame": "Evereste",
@@ -118,7 +118,7 @@ export default {
         },
         {
           "callsign": "Zaytoun",
-          "alias": "Kian Samud O.",
+          "alias": "Kian Samud Olvire",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "SMG",
           "frame": "Sagarmatha",
