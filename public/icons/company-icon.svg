@@ -7,7 +7,7 @@
    x="0px"
    id="Content"
    version="1.1"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="company-icon.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,9 +25,9 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="2.1134636"
-   inkscape:cx="392.95685"
-   inkscape:cy="638.05215"
+   inkscape:zoom="0.74722222"
+   inkscape:cx="450.33457"
+   inkscape:cy="465.05576"
    inkscape:window-width="2560"
    inkscape:window-height="1009"
    inkscape:window-x="-8"
@@ -39,23 +39,24 @@
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
    id="defs15" />
 <switch
-   style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
-   id="switch10">
+   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="switch10"
+   transform="matrix(1.4302708,0,0,1.3668123,-231.00757,-208.11398)">
 	<g
-   style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="g8"
    i:extraneous="self">
 		<g
-   style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="g6">
 			<path
-   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="path2"
-   d="M911.43,538.1L732.16,218.95c-1.67-2.97-4.81-4.81-8.22-4.81H348.03c-7.22,0-11.75,7.78-8.2,14.06l173.85,307.5     c1.65,2.92,1.62,6.5-0.07,9.4L334.06,851.67c-3.68,6.28,0.85,14.18,8.13,14.18h376.09c3.34,0,6.42-1.76,8.12-4.64L911.33,547.5     C913.04,544.61,913.07,541.03,911.43,538.1z" />
+   d="M 911.43,538.1 732.16,218.95 c -1.67,-2.97 -4.81,-4.81 -8.22,-4.81 H 348.03 c -7.22,0 -11.75,7.78 -8.2,14.06 l 173.85,307.5 c 1.65,2.92 1.62,6.5 -0.07,9.4 L 334.06,851.67 c -3.68,6.28 0.85,14.18 8.13,14.18 h 376.09 c 3.34,0 6.42,-1.76 8.12,-4.64 L 911.33,547.5 c 1.71,-2.89 1.74,-6.47 0.1,-9.4 z" />
 			<path
-   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="path4"
-   d="M298.99,305.86L168.58,536.53c-1.65,2.92-1.62,6.5,0.07,9.4l130.41,222.68c4.86,8.29,17.55,4.85,17.55-4.76V310.5     C316.62,300.81,303.76,297.43,298.99,305.86z" />
+   d="M 298.99,305.86 168.58,536.53 c -1.65,2.92 -1.62,6.5 0.07,9.4 l 130.41,222.68 c 4.86,8.29 17.55,4.85 17.55,-4.76 V 310.5 c 0.01,-9.69 -12.85,-13.07 -17.62,-4.64 z" />
 		</g>
 	</g>
 </switch>
