@@ -98,8 +98,8 @@ body {
 
 header {
   animation: 1s ease-out 1 slideInFromLeft;
-  background-color: $tertiary;
-  border-color: $primary;
+  background-color: $secondary;
+  border-color: $secondary;
   height: 96px;
   display: flex;
   align-items: center;
@@ -130,7 +130,6 @@ header {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.15em;
-    color: $secondary
   }
 
   #title-subheader {
@@ -142,7 +141,6 @@ header {
     text-transform: uppercase;
     letter-spacing: 0.12em;
     padding-left: 0.32em;
-    color: $secondary;
   }
 
   #subtitle-header {
@@ -153,7 +151,6 @@ header {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    color: $secondary;
   }
 
   #subtitle-subheader {
@@ -164,12 +161,11 @@ header {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.02em;
-    color: $secondary;
   }
 }
 
 .logo {
-  width: 80px;
+  width: 50px;
   height: 80px;
   margin-left: 15px;
 }
@@ -179,7 +175,7 @@ header {
 }
 
 #title-first-line {
-  border-bottom: 1px solid $secondary;
+  border-bottom: 1px solid #000;
 }
 
 .rhombus {
@@ -214,19 +210,18 @@ header video {
   height: 86px;
 }
 
-.location-info {
+div .location-info {
   height: 90px;
   width: 550px;
-  padding: 0px;
-  margin-left: 29px;
-  margin-top: 5px;
+  padding: 10px;
+  margin-left: 20px;
   display: flex;
   flex-direction: column;
   color: $text-location;
 }
 
 header video,
-.location-info {
+div.location-info {
   animation: 0.5s ease 1 flickerIn;
   animation-delay: 2s;
   animation-fill-mode: forwards;
@@ -234,28 +229,25 @@ header video,
 }
 
 .location-row {
-  height: 37px;
+  height: 40px;
   display: flex;
-  width: 399px;
   h4 {
     margin: 0px;
-    line-height: 0.5em;
+    line-height: 1.5em;
     font-family: "Raleway", sans-serif;
-    font-size: .5em;
+    font-size: 10px;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: $text-location;
   }
   .subtitle {
-    font-size: .9em;
+    font-size: 18px;
     margin: 0%;
     align-self: center;
     font-family: "Big Shoulders Display", cursive;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: $text-location;
   }
   div {
     padding: 0px 15px;
@@ -331,13 +323,12 @@ section .section-header {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: $secondary;
   }
 }
 
 .section-content-container {
   height: 666px;
-  background: $tertiary;
+  background: $secondary;
   border: 1px solid $primary;
   margin-top: -1px;
   z-index: 0;
@@ -389,9 +380,9 @@ section .section-header {
 }
 
 .clipped-medium-backward-bio {
-    width: 334px;
-    clip-path: polygon(0 0,500px 0,552px 100%,0% 100%);
-    -webkit-clip-path: polygon(0 0,300px 0,350px 100%,0% 100%);
+  width: 552px;
+  clip-path: polygon(0 0, 500px 0, 552px 100%, 0% 100%);
+  -webkit-clip-path: polygon(0 0, 500px 0, 552px 100%, 0% 100%);
 }
 
 .clipped-x-large-forward {
@@ -529,7 +520,7 @@ section .section-header {
   }
 
   .mech-portrait {
-    width: 120px;
+    width: 104px;
     height: 136px;
     object-fit: cover;
   }
@@ -655,7 +646,6 @@ section .section-header {
       font-weight: 800;
       text-transform: uppercase;
       letter-spacing: 0.1em;
-      color: $secondary;
     }
   }
 
@@ -675,17 +665,18 @@ section .section-header {
     background-color: $secondary;
     border: 1px solid $primary;
     margin-top: -38px;
-    margin-right: 40px;
-  }
+    width: 888px;
+    height: 662px;
+
     div.markdown {
       height: 662px;
     }
   }
+}
 
 .pilot-modal.portrait {
   .pilot {
     width: 600px;
-    height: 661px;
   }
 
   img.portrait {
@@ -728,7 +719,6 @@ section .section-header {
   right: 0;
   top: 0;
   background-color: rgba(10, 10, 10, 0.7);
-  z-index: 999999;
 }
 
 footer {
@@ -775,7 +765,6 @@ div.markdown {
   border-bottom: 1px solid $primary;
   height: 350px;
   overflow-y: auto;
-  overflow-x: hidden;
   transition: height 0.5s ease-in-out;
 
   p strong {
@@ -841,326 +830,4 @@ div.markdown {
   padding-top: 1em;
   padding-bottom: 1em;
   border-bottom: none;
-}
-
-/*================================================*/
-/*======          Mobile Support            ======*/
-/*================================================*/
-
-@media screen and (max-width: 767px) { 
-  .title {
-  transform: translateX(-100%);
-  animation: 1s ease-out 1 slideInFromLeft;
-  animation-delay: 0.5s;
-  animation-fill-mode: forwards;
-  background-color: $primary;
-  border-color: $primary;
-  width: 100%;
-  height: 100%;
-  margin-left: 0px;
-  display: inline-flex;
-  align-items: center;
-  column-gap: 1em;
-  .title-container {
-    display: flex;
-    flex-direction: column;
-  }
-.logo {
-    width: 13vw;
-    height: 6vh;
-    margin-left: 15px;
-}
-   .location-info {
-  height: 90px;
-  width: 550px;
-  padding: 0px;
-  margin-left: 20px;
-  margin-top: 0px;
-  display: flex;
-  flex-direction: column;
-  color: $text-location;
-}
-    .location-row {
-  height: 33px;
-  display: flex;
-  width: 400px;
-  h4 {
-    margin: 0px;
-    line-height: 0.5em;
-    font-family: "Raleway", sans-serif;
-    font-size: 10px;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: $text-location;
-  }
-    }
-  #title-header {
-    font-size: 4vw;
-    margin: 0%;
-    align-self: center;
-    font-family: "Big Shoulders Display", cursive;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0.15em;
-    color: $secondary
-  }
-
-  #title-subheader {
-    font-size: 4vw;
-    margin: 0%;
-    align-self: center;
-    font-family: "Big Shoulders Display", cursive;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    padding-left: 0.32em;
-    color: $secondary;
-  }
-
-  #subtitle-header {
-    font-size: 4vw;
-    margin: 0%;
-    align-self: center;
-    font-family: "Big Shoulders Display", cursive;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: $secondary;
-  }
-
-  #subtitle-subheader {
-    font-size: 3vw;
-    margin: 0%;
-    align-self: center;
-    font-family: "Titillium Web", cursive;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.02em;
-    color: $secondary;
-  }
-}
-  div .content-container {
-  display: flex;
-  flex-direction: column;
-  max-width: 80%;
-  margin: 100px auto; 
-  }
-  .section-container {
-   max-width: 100%;
-  width: auto;
-  margin-left: auto; /* Adjust the margin values as needed */
-  margin-right: auto; /* Center the container horizontally */
-}
-  section.section-container {
-  flex: 1 1 100%;
-  display: flex;
-  flex-direction: column;
-  flex-basis: calc(50% - 25px);
-  margin: 0;
-  max-width: 100%;
-  box-sizing: border-box;
-}
-  .section-content-container {
-  max-width: 82vw;
-    max-height: 78vh;
-  width: auto;
-  margin-left: auto; /* Adjust the margin values as needed */
-  margin-right: auto;
-    margin-top: 60px;
-}
-  #pilots {
-  width: 100%;
-  margin-top: 50px;
-  }
-   .section-header {
-    height: 52px;
-    display: flex;
-    align-items: center;
-    padding-left: 16px;
-    margin-top: 42px !important;
-     margin-bottom: -60px;
-  }
-  
-  .section-header h1 {
-    font-size: 26px;
-  }
-  .o-modal {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    overflow-x: hidden;
-    overflow-y: scroll;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    top: 0;
-    z-index: 99999;
-  }
-  .o-modal > div:nth-child(2) {
-  position: absolute;
-  left: 5px;
-  top: 138px;
-  display: flex;
-  flex-direction: column;
-    width: 97vw;
-    height:82vh;
-  gap: 5em;
-  z-index: 999999;
-}
-  div.pilot {
-    background-color: $secondary;
-    border: 1px solid $primary;
-    margin-top: -38px;
-    width: 97vw;
-}
-  .pilot-modal div .section-header h1 {
-    font-size: 23px;
-    margin: 0%;
-    align-self: center;
-    font-family: "Big Shoulders Display",cursive;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: .1em;
-    color: #e1e1e1;
-}
-  .pilot-modal.portrait {
-  .pilot {
-    width: 366px;
-    margin-bottom: 45px; 
-    margin-left: 7px;
-    height: 457px;
-  }
-    .pilot-modal div .section-header {
-    background-color: #991e2a;
-    border-color: #991e2a;
-    height: 52px;
-    display: inline-flex;
-    gap: 15px;
-    padding-left: 16px;
-    margin-top: -38px!important;
-}
-    .clipped-medium-backward-pilot {
-  width: 452px;
-  clip-path: polygon(0 0, 400px 0, 452px 100%, 0% 100%);
-  -webkit-clip-path: polygon(0 0, 400px 0, 452px 100%, 0% 100%);
-}
-    #pilots .section-header {
-      height: 87px;
-    overflow-y: hidden;
-      margin-bottom: -59px;
-    }
-.clipped-medium-backward-bio {
-    width: 226px;
-    clip-path: polygon(0 0,500px 0,552px 100%,0% 100%);
-    -webkit-clip-path: polygon(0 0,169px 0,217px 100%,0% 100%);
-}
-  img.portrait {
-    width: 366px;
-    height: 457px;
-    object-fit: cover;
-  }
-     .pilot-modal .pilot-header-container {
-    display: flex;
-  }
-    .pilot-modal.portrait div .section-header {
-    background-color: #991e2a;
-    border-color: #991e2a;
-    height: 52px;
-    display: inline-flex;
-    gap: 15px;
-    padding-left: 16px;
-    margin-top: -38px!important;
-    width: 82vw;
-}
-    .clipped-medium-backward-pilot {
-    width: 452px;
-    clip-path: polygon(0 0,400px 0,452px 100%,0% 100%);
-    -webkit-clip-path: polygon(0 0,265px 0,311px 100%,0% 100%);
-}
-  }
-  .o-modal__overlay {
-  bottom: 0;
-  left: 0;
-  position: fixed;
-  right: 0;
-  top: 0;
-  background-color: rgba(10, 10, 10, 0.7);
-  z-index: 999999;
-}
-  #pilots .pilot {
-    display: flex;
-    flex-direction: row;
-    padding: 3em;
-    column-gap: 0em;
-    height: 17px;
-    width: 84vw;
-    border-bottom: none;
-    z-index: 1;
-    cursor: pointer;
-    left: 10px;
-    background-color: $tertiary;
-}
-
-#pilots .pilot .pilot-loadout {
-    width: 96px;
-    display: flex;
-    flex-direction: column;
-    row-gap: 3px;
-    padding-left: 11px;
-    top: 10px;
-}
-
-#pilots .pilot .mech-loadout {
-    width: 1px;
-    display: flex;
-    flex-direction: column;
-    row-gap: 0px;
-    padding-top: 141px;
-    text-align: left;
-}
-
-#pilots .pilot .pilot-portrait {
-    width: 101px;
-    height: 136px;
-    object-fit: cover;
-}
-
-#pilots .pilot .mech-portrait {
-    width: 120px;
-    height: 136px;
-    object-fit: cover;
-  }
-  .pilot-wrapper {
-    position: relative;
-    height: 26vh;
-    padding: 33px;
-    width: 110vw;
-    top: -33px; 
-    overflow-y: clip;
-    border-bottom: 1px solid #991e2a
-  }
-  .pilot-wrapper:hover .middle {
-    width: 300px;
-  }
-  .pilot-list-container {
-  height: 78vh;
-    width: 86vw;
-  overflow-y: scroll;
-  overflow-x: hidden;     
-  }
-  #pilots .section-header.clipped-medium-backward {
-     height: 86px;
-    overflow-y: hidden;
-  margin-bottom: -61px;
-  }
-  .section-content-container ::-webkit-scrollbar-thumb {
-    background-color: #991e2a00;
-    border-radius: 20px;
-    border: 3px solid #991e2a00;
-    margin: 3px
-}
-  
 }
