@@ -125,8 +125,8 @@ export default {
           "mech": "Terrafirme"
         },
         {
-          "callsign": "Sem Dados",
-          "alias": "Sem Dados",
+          "callsign": "Halo",
+          "alias": "Paul Petrisco",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "N/A",
           "frame": "N/A",
