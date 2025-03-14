@@ -150,7 +150,7 @@ export default {
         "headerTitle": "União",
         "headerSubtitle": "Departamento da Marinha",
         "subheaderTitle": "Time de Segurança e Defesa",
-        "subheaderSubtitle": "Asa Negra",
+        "subheaderSubtitle": "ORION",
       },
       "options":{
         "eventsMarkdownPerMission": true
