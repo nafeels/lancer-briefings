@@ -5,7 +5,11 @@ Anos depois, como um Lancer recém-formado, Paul conseguiu instalar a ECO em sua
 ## Curiosidades
 
 - Todos pensam que Paul tem dupla personalidade, pois seu temperamento passivo e retraído não condiz com a postura confiante e ousada de quando esta pilotando seu mecha.
+
 - Paul nunca gostou do seu sobrenome, prefere que todos, principalmente a ECO, o chamem apenas de "Paul". Ele sente que "Petrisco" é um nome que revela sua fraqueza.
+
 - Apesar de ECO ser uma PNH e não precisar de comida, Paul tem o hábito de preparar duas canecas de café sempre que está em seu espaço de descanso, deixando uma ao lado do terminal onde ECO está instalada.
+  
 - Depois de tantos anos se sentindo vazio, Paul evita se olhar no espelho por muito tempo. Ele teme ver a versão antiga de si mesmo ou, pior, ver que sem ECO, ele não é nada.
+  
 - ECO tem o hábito de tocar músicas antigas enquanto estão em missões. Paul descobriu que ela tem uma predileção por canções melancólicas e instrumentais, o que o faz se perguntar se, de alguma forma, ela sente saudade de algo que nunca teve.
