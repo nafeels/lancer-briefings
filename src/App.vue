@@ -101,9 +101,17 @@ export default {
       ],
       "pilots": [
         {
+          "callsign": "Scypher",
+          "alias": 'Nova Forge',
+          "code": "8fe0bc2f-7bd7-402f-b66c-894d32c1d06c//NDL-C-SOLAR-CROSS//BIOMETRIC RECORD VALID [[15.43PB]] :: OHM C//5025-03-15T19:12:31.48",
+          "corpro": "SMG",
+          "frame": "Cholomungma",
+          "mech": "Sem Dados"
+        },
+        {
           "callsign": "Phantom",
           "alias": "Vladimir Kalashnikov",
-          "code": "2067d2d7-ca1f-4bc7-8464-b2d74b1d3864//NDL-C-LIGHT-MOUNTAIN",
+          "code": "2067d2d7-ca1f-4bc7-8464-b2d74b1d3864//NDL-C-IRON-HINDSIGHT//BIOMETRIC RECORD VALID [[14.81PB]] :: OHM C//5025-03-15T19:15:31.183Z",
           "corpro": "SMG",
           "frame": "Evereste",
           "mech": "GHOST REAPER"
@@ -111,7 +119,7 @@ export default {
         {
           "callsign": "Ynx",
           "alias": "Aurora Galanis",
-          "code": "30f58c3d-3416-43a3-8102-8d2235fa9bb1//NDL-C-BETA-CASCADE",
+          "code": "30f58c3d-3416-43a3-8102-8d2235fa9bb1//NDL-C-LUNAR-OCTOBER//BIOMETRIC RECORD VALID [[16.56PB]] :: OHM C//5025-03-15T19:14:47.683Z",
           "corpro": "SMG",
           "frame": "Evereste",
           "mech": "Bola de Neve"
@@ -119,7 +127,7 @@ export default {
         {
           "callsign": "Zaytoun",
           "alias": "Kian Samud Olvire",
-          "code": "eedd65b9-a314-4675-8e5d-9ed09a0474d4//NDL-C-NULL-WILD",
+          "code": "eedd65b9-a314-4675-8e5d-9ed09a0474d4//NDL-C-NULL-WILD//BIOMETRIC RECORD VALID [[15.2PB]] :: OHM C//5025-03-15T19:13:30.577Z",
           "corpro": "SMG",
           "frame": "Sagarmatha",
           "mech": "Terrafirme"
@@ -127,7 +135,7 @@ export default {
         {
           "callsign": "Halo",
           "alias": "Paul Petrisco",
-          "code": "64120932-6575-405c-b56e-3befcb3ad1ed//NDL-C-EARNEST-ORRERY",
+          "code": "64120932-6575-405c-b56e-3befcb3ad1ed//NDL-C-EARNEST-ORRERY//BIOMETRIC RECORD VALID [[13.95PB]] :: OHM C//5025-03-15T19:14:00.334Z",
           "corpro": "SMG",
           "frame": "Evereste",
           "mech": "Sem Dados"
