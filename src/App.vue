@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Phantom",
           "alias": "Vladimir Kalashnikov",
-          "code": "2067d2d7-ca1f-4bc7-8464-b2d74b1d3864//NDL-C-LIGHT-MOUNTAIN//2067d2d7-ca1f-4bc7-8464-b2d74b1d3864",
+          "code": "2067d2d7-ca1f-4bc7-8464-b2d74b1d3864//NDL-C-LIGHT-MOUNTAIN",
           "corpro": "SMG",
           "frame": "Evereste",
           "mech": "GHOST REAPER"
@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "Ynx",
           "alias": "Aurora Galanis",
-          "code": "30f58c3d-3416-43a3-8102-8d2235fa9bb1//NDL-C-BETA-CASCADE//30f58c3d-3416-43a3-8102-8d2235fa9bb1",
+          "code": "30f58c3d-3416-43a3-8102-8d2235fa9bb1//NDL-C-BETA-CASCADE",
           "corpro": "SMG",
           "frame": "Evereste",
           "mech": "Bola de Neve"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "Zaytoun",
           "alias": "Kian Samud Olvire",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "eedd65b9-a314-4675-8e5d-9ed09a0474d4//NDL-C-NULL-WILD",
           "corpro": "SMG",
           "frame": "Sagarmatha",
           "mech": "Terrafirme"
@@ -127,9 +127,9 @@ export default {
         {
           "callsign": "Halo",
           "alias": "Paul Petrisco",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "N/A",
-          "frame": "N/A",
+          "code": "64120932-6575-405c-b56e-3befcb3ad1ed//NDL-C-EARNEST-ORRERY",
+          "corpro": "SMG",
+          "frame": "Evereste",
           "mech": "Sem Dados"
         },
         {
