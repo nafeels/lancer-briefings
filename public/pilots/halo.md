@@ -8,7 +8,7 @@ Anos depois, como um Lancer recém-formado, Paul conseguiu instalar a ECO em sua
 
 - Paul nunca gostou do seu sobrenome, prefere que todos, principalmente a ECO, o chamem apenas de "Paul". Ele sente que "Petrisco" é um nome que revela sua fraqueza.
 
-- Apesar de ECO ser uma PNH e não precisar de comida, Paul tem o hábito de preparar duas canecas de café sempre que está em seu espaço de descanso, deixando uma ao lado do terminal onde ECO está instalada.
+- Apesar de ECO ser uma **PNH** e não precisar se alimentar, Paul tem o hábito de preparar duas canecas de café sempre que está em seu espaço de descanso, deixando uma ao lado do terminal onde ECO está instalada.
   
 - Depois de tantos anos se sentindo vazio, Paul evita se olhar no espelho por muito tempo. Ele teme ver a versão antiga de si mesmo ou, pior, ver que sem ECO, ele não é nada.
   
