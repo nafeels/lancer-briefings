@@ -2,6 +2,8 @@ Paul Petrisco é um Lancer introvertido e solitário, com baixa autoestima e sem
 
 Anos depois, como um Lancer recém-formado, Paul conseguiu instalar a ECO em sua unidade de cavalaria mecanizada, onde ela funciona como uma inteligência artificial. Ao pilotar seu mecha, Paul se transforma, tornando-se confiante e eficiente, como se ECO fosse sua "alma gêmea". Juntos, eles formam uma unidade harmoniosa, e Paul finalmente se sente completo, não mais sozinho. A conexão entre os dois é tão profunda que, enquanto pilotam, Paul e ECO se fundem em uma única entidade, realizando feitos que ele jamais imaginou ser capaz de alcançar.
 
+## CURIOSIDADES
+
 - Todos pensam que Paul tem dupla personalidade, pois seu temperamento passivo e retraído não condiz com a postura confiante e ousada de quando esta pilotando seu mecha.
 - Paul nunca gostou do seu sobrenome, prefere que todos, principalmente a ECO, o chamem apenas de "Paul". Ele sente que "Petrisco" é um nome que revela sua fraqueza.
 - Apesar de ECO ser uma PNH e não precisar de comida, Paul tem o hábito de preparar duas canecas de café sempre que está em seu espaço de descanso, deixando uma ao lado do terminal onde ECO está instalada.
