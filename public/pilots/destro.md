@@ -1,4 +1,4 @@
-*"Eu vou perseguir o meu sonho, e, para isso, vou remover qualquer obstáculo que apareça no meu caminho."*
+*"Eu vou perseguir o meu sonho, e, para isso, vou remover qualquer obstáculo que apareça no meu caminho."*  
 **SOLONIUS**, Dexter
 
 Dexter Solonius nasceu em **CAH Alpha-7**, um planeta anão-colônia experimental pertencente ao **Arsenal Harrison (AH)**. A colônia é especializada na extração de minérios, produção e testes de protótipos tecnológicos. Possui um sistema de exportação complexo e toda uma infraestrutura e ecossistema para sustentar as milhares de fábricas. Em CAH a-7, quase tudo é controlado por **Pessoas Não Humanas (PNHs)** Especializadas. Desde serviços e produção até o governo. Nessa terra quase totalmente controlada por PNHs, os humanos são importantes para poucas coisas. E, em decorrência da falta de empregabilidade e utilidade humana, aqueles que vivem lá são explorados ao extremo.
