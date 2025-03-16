@@ -143,7 +143,7 @@ export default {
         {
           "callsign": "Destro",
           "alias": 'Dexter Solonius',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "4b808c94-41c0-4250-9512-93acf675f6ff//NDL-C-ETA-GLYPH :: OHM C//5025-03-16T05:40:04.626Z",
           "corpro": "SMG",
           "frame": "Evereste",
           "mech": "Starlord"
