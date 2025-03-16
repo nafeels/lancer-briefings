@@ -157,7 +157,7 @@ export default {
         "ring": "Linha Cascades",
         "headerTitle": "União",
         "headerSubtitle": "Departamento da Marinha",
-        "subheaderTitle": "Time de Segurança e Defesa",
+        "subheaderTitle": "Esquadrão Especial de Defesa e Resposta à Crise",
         "subheaderSubtitle": "ORION",
       },
       "options":{
