@@ -106,7 +106,7 @@ export default {
           "code": "8fe0bc2f-7bd7-402f-b66c-894d32c1d06c//NDL-C-SOLAR-CROSS :: OHM C//5025-03-15T19:12:31.48",
           "corpro": "SMG",
           "frame": "Cholomungma",
-          "mech": "Sem Dados"
+          "mech": "Cérebro"
         },
         {
           "callsign": "Phantom",
