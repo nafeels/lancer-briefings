@@ -114,7 +114,7 @@ export default {
           "code": "2067d2d7-ca1f-4bc7-8464-b2d74b1d3864//NDL-C-IRON-HINDSIGHT :: OHM C//5025-03-15T19:15:31.183Z",
           "corpro": "SMG",
           "frame": "Evereste",
-          "mech": "GHOST REAPER"
+          "mech": "Ghost Reaper"
         },
         {
           "callsign": "Ynx",
