@@ -1,4 +1,4 @@
-*"Sou o caos que invade sistemas, e também a ordem que os preserva."*
+*"Sou o caos que invade sistemas, e também a ordem que os preserva."*  
 **FORGE**, Nova
 
 Nova não se lembra de sua vida antes de ser resgatado em uma missão em um dos planetas da **Diáspora**. Durante essa missão, ele invadiu um sistema extremamente protegido, com firewalls e criptografia de última geração, sem qualquer aparato tecnológico. Sua mente, à beira da morte, ainda estava conectada a esse sistema no momento do resgate, e essa conexão quase fatal foi o que chamou a atenção da equipe da **União**. Reconhecendo seu potencial, a União o recrutou para a **Academia do DMU (Departamento da Marinha da União)**, onde se tornou um dos seus pilotos mais valiosos.
