@@ -5,7 +5,7 @@ Nova não se lembra de sua vida antes de ser resgatado em uma missão em um dos 
 
 Embora não seja oficialmente o líder, Nova Forge assume responsabilidades de liderança sempre que necessário, sendo um defensor de que todos na equipe devem ser ouvidos. Seu valor como hacker e piloto é inquestionável, e ele utiliza seus mechas para realizar missões que exigem infiltração digital. Contudo, sua habilidade de invadir sistemas remotos tem um custo. Ao se conectar a uma rede, sua mente mergulha em uma simulação hiper-realista, e a linha entre o virtual e o real se torna cada vez mais turva. Ele acredita que a conexão prolongada com aquele sistema altamente protegido — especialmente em seu estado crítico — é a causa de sua confusão mental entre o que é simulação e o que é realidade.
 
-Aos poucos, ele sentiu-se fazendo parte do **Núcleo Galático**, que agora é sua casa, e ele a protege com fervor. Nova Forge tem uma aversão profunda à injustiça e não tolera abusos de poder. Entre as missões e sua busca por respostas sobre seu passado, ele segue pilotando, ao mesmo tempo que tenta resolver os mistérios que cercam sua identidade e o que realmente aconteceu com ele.
+Aos poucos, ele sentiu-se fazendo parte do **Núcleo Galático**, que agora é sua casa, e ele a protege com fervor. Entre as missões e sua busca por respostas sobre seu passado, ele segue pilotando, ao mesmo tempo que tenta resolver os mistérios que cercam sua identidade e o que realmente aconteceu com ele.
 
 ## Curiosidades:
 
